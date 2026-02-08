@@ -1,0 +1,15 @@
+{"name": "island-study-tracker",
+ "version": "1.0.0",
+ "description": "A project tracking studies conducted on the island.",
+ "main": "index.js",
+ "scripts": {
+ "test": "echo \"Error: no test specified\" && exit 1"
+ },
+ "repository": {
+ "type": "git",
+ "url": "git+https://github.com/ALadLee/Island.study.git"
+ },
+ "keywords": ["island", "study", "tracker"],
+ "author": "ALadLee",
+ "license": "ISC"
+}
